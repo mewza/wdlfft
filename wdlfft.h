@@ -9,10 +9,10 @@
  **  appreciate a hello in the credits. Cruise over to my GITHUB page
  **  and you may find other goodies useful.
  **
- ** This file implements the WDL FFT library. These routines are based on the
- ** DJBFFT library, which are   Copyright 1999 D. J. Bernstein, djb@pobox.com
+ **  This file implements the WDL FFT library. These routines are based on the
+ **  DJBFFT library, which are   Copyright 1999 D. J. Bernstein, djb@pobox.com
  **
- ** The DJB FFT web page is:  http://cr.yp.to/djbfft.html
+ **  The DJB FFT web page is:  http://cr.yp.to/djbfft.html
  */
 
 #pragma once
