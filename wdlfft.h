@@ -3,7 +3,7 @@
  **  wrapper for the Berstein's WDL FFT
  **  Original WDL FFT routine Copyright 1999 D. J. Bernstein
  **
- **  C++ wrapper (C)2024 Dmitry Boldyrev
+ **  C++ wrapper (C)2024 DEMOS
  **  GITHUB: https://github.com/mewza or Email: subband@protonmail.com
  **  LICENSE: Wrapper is FREE to use in commercial but would
  **  appreciate a hello in the credits. Cruise over to my GITHUB page
